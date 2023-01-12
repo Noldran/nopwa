@@ -90,7 +90,7 @@ npm install gh-pages --save-dev
 The first property we need to add at the top level homepage second we will define this as a string and the value will be "http://{username}.github.io/{repo-name}" {username} is your GitHub username, and {repo-name} is the name of the GitHub repository you created it will look like this :
 
 ```json
-"homepage": "https://noldran.github.io/pwa1"
+"homepage": "https://noldran.github.io/nopwa"
 ```
 
 Second in the existing scripts property we to need to add predeploy and deploy.
