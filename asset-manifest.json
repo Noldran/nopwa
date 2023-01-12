@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/nopwa/static/css/main.073c9b0a.css",
+    "main.js": "/nopwa/static/js/main.fd165757.js",
+    "static/js/787.4c24c4cf.chunk.js": "/nopwa/static/js/787.4c24c4cf.chunk.js",
+    "static/media/logo.svg": "/nopwa/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/nopwa/index.html",
+    "main.073c9b0a.css.map": "/nopwa/static/css/main.073c9b0a.css.map",
+    "main.fd165757.js.map": "/nopwa/static/js/main.fd165757.js.map",
+    "787.4c24c4cf.chunk.js.map": "/nopwa/static/js/787.4c24c4cf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.fd165757.js"
+  ]
+}
